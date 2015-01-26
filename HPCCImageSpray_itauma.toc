@@ -1,4 +1,0 @@
-\contentsline {section}{\numberline {0.1}Working with Images in HPCC}{2}
-\contentsline {section}{\numberline {0.2}Working with BLOBs}{2}
-\contentsline {subsection}{\numberline {0.2.1}Spraying BLOB Data}{2}
-\contentsline {subsection}{\numberline {0.2.2}Working with BLOB Data}{2}
